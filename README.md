@@ -6,13 +6,8 @@ No external libraries, no database, no hardware. One source file, one compiler.
 
 > **Scope note:** this is a software simulation of parking-lot logic. It is not embedded firmware and does not read from real sensors.
 
-<!-- Add a screenshot of the dashboard here: ![Dashboard](docs/dashboard.png) -->
+<img width="667" height="587" alt="Screenshot 2026-10-09 112710" src="https://github.com/user-attachments/assets/3d75b350-6ad4-499f-b1d9-0f05a77a4f87" />
 
----
-
-## Why I built it
-
-I wanted a project that goes beyond a basic menu program and still stays readable: real state to manage, rules that can go wrong (duplicates, full lots, rounding), and data that survives a restart. Parking turned out to be a good fit because every edge case is easy to explain and easy to test.
 
 ## Features
 
@@ -111,9 +106,7 @@ smart-parking/
 
 ## Author
 
-**Your Name**
-Computer Science student | [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+Gagandeep
+Computer Engineering student
 
----
 
-*Built as a learning project to practise structured C++, state management and clean console UX.*
