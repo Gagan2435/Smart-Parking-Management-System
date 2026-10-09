@@ -1,0 +1,5 @@
+parking
+parking.exe
+*.o
+parking_state.txt
+parking_history.csv
